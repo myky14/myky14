@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=2000&center=true&vCenter=true&width=300&lines=(Oh,+hi!)"
   />
 </p>
-<h1 align="center">Nguyen Du My Ky</h1>
+<h1 align="center">I'm Nguyen Du My Ky</h1>
 <p align="center">
   <strong>Accounting Assistant &middot; Business Information Systems Student</strong>
 </p>
@@ -23,8 +23,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<br />
 
 ## About Me
 
@@ -67,26 +65,15 @@
     alt="Top languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=myky14&theme=github-dark-blue&hide_border=true"
     alt="GitHub contribution streak"
   />
 </p>
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/myky14/myky14/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake animation"
   />
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <strong>Nguyen Du My Ky</strong>
-</p>
-
-<p align="center">
-  Accounting &times; Data &times; AI
 </p>
